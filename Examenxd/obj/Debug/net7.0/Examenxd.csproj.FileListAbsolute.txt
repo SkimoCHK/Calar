@@ -1,0 +1,14 @@
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\bin\Debug\net7.0\Examenxd.exe
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\bin\Debug\net7.0\Examenxd.deps.json
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\bin\Debug\net7.0\Examenxd.runtimeconfig.json
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\bin\Debug\net7.0\Examenxd.dll
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\bin\Debug\net7.0\Examenxd.pdb
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.AssemblyInfoInputs.cache
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.AssemblyInfo.cs
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.csproj.CoreCompileInputs.cache
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.dll
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\refint\Examenxd.dll
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.pdb
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\Examenxd.genruntimeconfig.cache
+C:\Users\HP 800 G2\source\repos\Examenxd\Examenxd\obj\Debug\net7.0\ref\Examenxd.dll
